@@ -1,5 +1,23 @@
 # 📊 Customer Churn Analysis and Prediction Using Machine Learning
 
+## 📸 Project Preview
+
+### Customer Churn Distribution
+
+![Churn Distribution](Visualizations/churn_distribution.png)
+
+### Churn by Contract Type
+
+![Churn by Contract](Visualizations/churn_by_contract.png)
+
+### Model Comparison
+
+![Model Comparison](Visualizations/model_comparison.png)
+
+### Feature Importance
+
+![Feature Importance](Visualizations/feature_importance.png)
+
 ## 📌 Project Overview
 
 Customer churn is a major challenge for businesses because losing existing customers can directly affect revenue and long-term growth.
