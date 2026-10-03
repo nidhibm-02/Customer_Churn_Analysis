@@ -1,0 +1,11 @@
+Model,Accuracy,Precision,Recall,F1 Score,ROC-AUC
+Tuned Gradient Boosting,0.7949,0.6534,0.484,0.5561,0.8462
+Gradient Boosting,0.7984,0.6552,0.508,0.5723,0.8421
+Random Forest,0.8048,0.6623,0.5401,0.595,0.8419
+Logistic Regression,0.807,0.6584,0.5668,0.6092,0.8418
+Tuned Logistic Regression,0.8027,0.6509,0.5535,0.5983,0.841
+Tuned Random Forest,0.7885,0.6696,0.4011,0.5017,0.8408
+Decision Tree,0.7942,0.6312,0.5401,0.5821,0.8267
+Naive Bayes,0.6558,0.4269,0.8663,0.5719,0.8092
+SVM,0.7928,0.6444,0.4893,0.5562,0.7961
+KNN,0.7473,0.5253,0.5,0.5123,0.7718

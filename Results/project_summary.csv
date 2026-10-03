@@ -1,0 +1,9 @@
+Metric,Value
+Total Customers,7043
+Total Churned Customers,1869
+Overall Churn Rate (%),26.54
+High-Risk Customers,185
+High-Risk Customers (%),13.13
+Highest ROC-AUC,Tuned Gradient Boosting
+Highest Accuracy,Logistic Regression
+Highest Recall,Naive Bayes

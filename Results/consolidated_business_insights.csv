@@ -1,0 +1,11 @@
+Segment_Type,Segment,Customers,Churned,Churn_Rate
+Contract,Month-to-month,3875,1655,42.71
+Contract,One year,1473,166,11.27
+Contract,Two year,1695,48,2.83
+Internet Service,DSL,2421,459,18.96
+Internet Service,Fiber optic,3096,1297,41.89
+Internet Service,No,1526,113,7.4
+Payment Method,Bank transfer (automatic),1544,258,16.71
+Payment Method,Credit card (automatic),1522,232,15.24
+Payment Method,Electronic check,2365,1071,45.29
+Payment Method,Mailed check,1612,308,19.11
